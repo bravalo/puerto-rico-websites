@@ -17,7 +17,7 @@ body {
 		float: left;
 	}
 	/***** PUERTO RICO CSS CODE *****/
-	#puertorico img#leaves-img {
+	.full-width img#leaves-img {
 		background-size: cover;
 		background-position: center;
 		background-repeat: no-repeat;
